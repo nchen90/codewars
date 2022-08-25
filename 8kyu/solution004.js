@@ -4,4 +4,4 @@
 
 function digitize(n) {
    return Array.from(string(n), Number).reverse()
-}
+} 
