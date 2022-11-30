@@ -8,3 +8,6 @@
 function squareDigits(num){
 	return Number(Array.from(String(num), Number).map(x => x * x).join(''))
 }
+
+// Factor
+const squareDigits = num => Number(Array.from(String(num), Number).map(x => x * x).join(''))  
