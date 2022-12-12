@@ -12,5 +12,11 @@
 // My Solution
 
 var summation = function (num) {
-    
+    let arr = []
+    for(i = 0; i <= num; i++){
+        arr.push(i)
+    }
+    return arr.reduce((a, b) => a + b)
 }
+
+console.log(summation(8))
