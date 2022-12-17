@@ -8,13 +8,13 @@
 // don't worry about uppercase vowels
 // y is not considered a vowel for this kata
 
-function shortcut(string) {
-    let vowels = ['a', 'e', 'i', 'o', 'u']
-    console.log(string.split(''))
-   	string.forEach((x, i) => {
-        if() 
-    })
-}
+// function shortcut(string) {
+//     let vowels = ['a', 'e', 'i', 'o', 'u']
+//     console.log(string.split(''))
+//    	string.forEach((x, i) => {
+//         if() 
+//     })
+// }
 
 shortcut("test")
 
