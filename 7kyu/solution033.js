@@ -50,3 +50,4 @@ mygcd(270, 192)
 // mygcd(36, (78 % 36)) x=36 y=6
 // mygcd(6, (36 % 6)) x=6 y=0
 
+//Euclidean Algorithm
