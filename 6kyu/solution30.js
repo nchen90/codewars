@@ -13,6 +13,6 @@ let str = string.split('')
 let arr = []
     for (let i = 0; i < str.length; i++) {
     	(str[i] !== str[i].toUpperCase()) ? arr.push(str[i]) : arr.push(` ${str[i]}`)  
-    }
+    } 
     return arr.join('')
 }
