@@ -14,4 +14,4 @@
 // My Solution
 function remove (string) {
     return [...string].filter(x => x != '!').join('') + '!'
-  }
+} 
